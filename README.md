@@ -1,5 +1,5 @@
-<h1 align="center">👨‍💻 إسلام — Full Stack Developer</h1>
-<p align="center">أوازن بين التنظيم العملي والجمال البصري، وأبني أنظمة تعليمية قابلة للتخصيص والتوسع</p>
+<h1 align="center">Hey I am Islam — Full Stack Developer 👨‍💻</h1>
+<p align="center">I balance practical organization with visual beauty, and build customizable and scalable learning systems.</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
@@ -7,15 +7,14 @@
 
 ---
 
-## 🧠 من أنا؟
-- 💻 مطور Full Stack باستخدام React وNext.js وExpress
-- 🧩 أعمل على مشاريع تعليمية تخدم المعاهد الصغيرة بأنظمة مرنة
-- 🎨 أهتم بتجربة المستخدم والتفاصيل الجمالية
-- 🌍 أطمح للهجرة التقنية إلى بيئة تحترم المطور وتقدّر قيمته
+## 🧠<h3> Who am I? </h3>
+- 💻 Full Stack Developer using React, Next.js, and Express
+- 🧩 I work on educational projects that serve small institutes with flexible systems
+- 🎨 I care about user experience and aesthetic details
 
 ---
 
-## 🛠 المهارات والتقنيات
+## <h3> 🛠 Skills & Tools </h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,typescript,express,postgresql,supabase,figma" />
@@ -23,22 +22,36 @@
 
 ---
 
-## 🚀 المشاريع المفتوحة
+## 🚀<h3> My project </h3>
 
-### 🏫 [نظام إدارة الطلاب](https://github.com/your-username/student-management)
-واجهة منفصلة للطالب والأستاذ، تخزين محلي، تنظيم مرن باستخدام Next.js وRedux.
+### 🏫 [ Student-manager ](https://github.com/your-username/student-management)
+-- The project is under construction --
 
-### 🛒 [متجر إلكتروني تجريبي](https://github.com/your-username/shop-demo)
-سلة ديناميكية، تصميم جذاب، تخزين باستخدام Supabase وPostgreSQL.
+### 🛒 [E-commerce store](https://github.com/your-username/shop-demo)
+ SportUp is a modern web platform for selling supplements and healthy products, designed to offer a smooth and organized user experience.  
+ Built with Next.js, React, Tailwind CSS, and Supabase, it ensures high performance and customizable design.  
+ The site focuses on simplicity, speed, and clear product categorization to help users find what they need easily.
 
-### 📱 [تطبيق موبايل تعليمي](https://github.com/your-username/mobile-edu-app)
-واجهة أولية باستخدام React Native، تخزين سحابي، تجربة مستخدم سلسة.
+### 📱 [******](https://github.com/your-username/mobile-edu-app)
+-- The project is under construction --
 
 ---
 
-## 📫 تواصل معي
+## 📫<h3> Contact Me </h3>
+ 
+
 
 <p align="center">
-  <a href="https://twitter.com/islam_dev"><img src="https://img.shields.io/twitter/follow/islam_dev?style=social" /></a>
-  <a href="mailto:islam@example.com"><img src="https://img.shields.io/badge/Email-islam@example.com-blue?style=flat-square" /></a>
+  <a href="mailto:islam@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-islam@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/islam_dev" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-@islam_dev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/islam-dev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Islam%20Dev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/your-username" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-your--username-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>

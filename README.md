@@ -1,4 +1,4 @@
-[![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://www.adamalston.com/)
+
 <h1 align="center">Hey, I am Islam , Full Stack Developer 👨‍💻</h1>
 <p align="center">I balance practical organization with visual beauty, and build customizable and scalable learning systems.</p>
 

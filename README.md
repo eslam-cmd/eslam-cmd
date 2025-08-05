@@ -1,4 +1,4 @@
-<h1 align="center">Hey I am Islam — Full Stack Developer 👨‍💻</h1>
+<h1 align="center">Hey, I am Islam , Full Stack Developer 👨‍💻</h1>
 <p align="center">I balance practical organization with visual beauty, and build customizable and scalable learning systems.</p>
 
 <p align="center">
@@ -7,7 +7,7 @@
 
 ---
 
-## 🧠<h3> Who am I? </h3>
+## <h3> Who am I? 🧠</h3>
 - 💻 Full Stack Developer using React, Next.js, and Express
 - 🧩 I work on educational projects that serve small institutes with flexible systems
 - 🎨 I care about user experience and aesthetic details
@@ -22,7 +22,7 @@
 
 ---
 
-## <h3> My project </h3>
+## <h3> My projects :</h3>
 
 ### 🏫 [ Student-manager ](https://github.com/your-username/student-management)
 -- The project is under construction --
@@ -37,7 +37,7 @@
 
 ---
 
-## <h3> Contact Me </h3>
+## <h3> Contact Me : </h3>
  
 
 

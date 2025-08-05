@@ -1,3 +1,4 @@
+[![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://www.adamalston.com/)
 <h1 align="center">Hey, I am Islam , Full Stack Developer 👨‍💻</h1>
 <p align="center">I balance practical organization with visual beauty, and build customizable and scalable learning systems.</p>
 
@@ -42,14 +43,9 @@
 
 
 <p align="center">
-  <a href="hdayaaslam34@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-islam@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://x.com/IslamALSioufi?t=eIbqx5tF3-pkqw5uHmseDA&s=09 " target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-@islam_dev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/islam-dev" target="_blank">
-    <img src="https://www.linkedin.com/in/islam-hadaya-60a056357?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
  
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](hdayaaslam34@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/adammalston](https://www.linkedin.com/in/islam-dev)/)
+[!Twitter ](https://img.shields.io/badge/-ADAMALSTON.COM-000000?style=for-the-badge&logo=react&logoColor=white)]([https://www.adamalston.com](https://x.com/IslamALSioufi?t=eIbqx5tF3-pkqw5uHmseDA)/)
+
 </p>

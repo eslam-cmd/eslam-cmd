@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 Islam — Full Stack Developer</h1>
+<h1 align="center">👨‍💻 Hi i am Islam — Full Stack Developer</h1>
 <p align="center">Balancing practical structure with visual elegance. Building customizable and scalable educational systems.</p>
 
 <p align="center">
@@ -19,22 +19,6 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,typescript,express,postgresql,supabase,figma" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/your-username/student-management" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=student-management&theme=radical" />
-  </a>
-  <a href="https://github.com/your-username/shop-demo" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=shop-demo&theme=radical" />
-  </a>
-  <a href="https://github.com/your-username/mobile-edu-app" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=mobile-edu-app&theme=radical" />
-  </a>
 </p>
 
 ---

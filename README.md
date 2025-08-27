@@ -9,8 +9,8 @@
 
 ## 🧠 About Me
 
-- 💻 Full Stack Developer with strong experience in React, Next.js, Tailwind, and Supabase  
-- 🧩 Focused on building practical educational platforms for small institutes or solo teachers  
+- 💻 Full Stack Developer with strong experience in React, Next.js, Tailwind, and express  
+- 🧩 Focused on building complete and responsive platforms with an emphasis on user experience.  
 - 🎨 Passionate about user experience and aesthetic details  
 
 ---

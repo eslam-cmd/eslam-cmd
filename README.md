@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 Hi i am Islam — Full Stack Developer</h1>
+<h1 align="center">👨‍💻 Hi i am Islam — Software engineer </h1>
 <p align="center">Balancing practical structure with visual elegance. Building customizable and scalable educational systems.</p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 ## 🛠 Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,typescript,express,postgresql,supabase,figma" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,typescript,express,postgresql,supabase,reactnative" />
 </p>
 
 ---

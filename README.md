@@ -9,7 +9,7 @@
 
 ## 🧠 About Me
 
-- 💻 Full Stack Developer with strong experience in React, Next.js, Tailwind, React Navtive, and express 
+- 💻 Full Stack Developer with strong experience in React, Next.js, Tailwind, React Navtive, and Express , Nest
 - 🧩 Focused on building complete and responsive platforms with an emphasis on user experience.  
 - 🎨 Passionate about user experience and aesthetic details  
 

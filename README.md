@@ -111,31 +111,7 @@
 
 ---
 
-## 📬 Connect With Me
 
-<p align="center">
-  <a href="mailto:hdayaaslam34@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-Islam_Hadaya-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/islam-hadaya-60a056357" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Islam%20Hadaya-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/islam-hadaya" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Islam-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://twitter.com/islam_dev" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-@islam_dev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://your-portfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Islam-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-</p>
-
----
 
 ## 📝 Blog & Writing
 

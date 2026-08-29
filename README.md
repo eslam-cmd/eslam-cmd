@@ -31,7 +31,7 @@ Full-stack security scanner with AI-powered vulnerability assessment and subscri
 - Detailed Reports — Security score, deep audit with visual breakdowns
 - JWT Auth — Secure authentication with refresh tokens
 
-**Tech:** Next.js 15 · NestJS · PostgreSQL · Prisma · Redis · Bull · OpenAI API
+**Tech:** Next.js 15 · NestJS · PostgreSQL · Prisma · Redis · Nodemailer · Gemini API 
 
 - Client: https://github.com/eslam-cmd/ScanLens-client
 - Server: https://github.com/eslam-cmd/ScanLens-server
@@ -51,7 +51,7 @@ Dual-role platform for teachers and students with 2FA security and interactive a
 - HttpOnly Cookies — XSS-resistant JWT session management
 - Automated Testing — Jest + Supertest integration & security test suites
 
-**Tech:** Next.js 14 · Express 5 · PostgreSQL · MUI · Recharts · JWT · Nodemailer
+**Tech:** Next.js 14 · Express 5 · PostgreSQL · MUI  · JWT · Nodemailer
 
 - Client: https://github.com/eslam-cmd/e-school-client
 - Server: https://github.com/eslam-cmd/e-school-server
